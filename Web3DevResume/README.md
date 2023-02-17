@@ -29,3 +29,7 @@ To use this smart contract, you will need to deploy it to the Ethereum network u
 ## Note:
 
 Before using this smart contract, make sure to review the code and understand its functionality and limitations.
+
+## License
+
+This smart contract is released under the MIT License.
