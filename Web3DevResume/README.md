@@ -2,7 +2,7 @@
 
 This is an experimental Solidity smart contract created for fun and to demonstrate how a web3 developer's resume could be implemented on the Ethereum blockchain.
 
-## Warning
+## Warning
 
 This smart contract does not provide any security mechanisms to prevent unauthorized access or modification of its data.
 This smart contract is not intended for use in a production environment and should be considered purely experimental. Use at your own risk!
