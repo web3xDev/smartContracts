@@ -1,13 +1,13 @@
 # BuyMeACoffee Smart Contract
-This is a smart contract for a simple crowdfunding application built on the Ethereum blockchain using the Solidity programming language.
+This is a smart contract for a simple Buy Me A Coffee application built on the Ethereum blockchain using the Solidity programming language.
 
-## Note: 
+## Warning: 
 This is an experimental smart contract and it should not be used in a production environment until its security and functionality have been thoroughly audited and tested.
 
 ## Functionality
 The contract allows users to contribute funds to creators and withdraw funds from their balance.
 
-Creators can be added by the contract administrator, and once they are added, they can receive funds by calling the buyCoffee function. The function takes an address parameter that specifies the address of the creator that should receive the funds.
+Creators can be added by anyone which is want to be creator, and once they are added, they can receive funds with the buyCoffee function from their supporters. The function takes an address parameter that specifies the address of the creator that should receive the funds.
 
 The contract keeps track of the funds contributed by each user and the total fee balance. The fee is set to 5% of the contribution.
 
@@ -25,7 +25,7 @@ To use the contract, contributors can call the buyCoffee function, specifying th
 ## Testing
 To test the contract, you can use Remix or another Solidity development tool. You can also use a test network, such as the Ropsten test network, to deploy and test the contract.
 
-## Note: 
+## Warning: 
 Please be careful when using real funds on a live network. It is recommended to test the contract on a test network before deploying it on the main network.
 
 ## License
