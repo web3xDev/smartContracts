@@ -18,8 +18,9 @@ The Web3DevResume contract allows a developer to create and manage their resume 
 - Skills
 - Awards
 - Certificates
-- The addSummary, addWorkExperience, addSkill, addAward, and addCertificate functions can be used to add new information to the resume.
-- The summary, education, workExperiences, skills, awards, and certificates can be retrieved using the corresponding public view functions.
+
+The addSummary, addWorkExperience, addSkill, addAward, and addCertificate functions can be used to add new information to the resume.
+The summary, education, workExperiences, skills, awards, and certificates can be retrieved using the corresponding public view functions.
 
 ## Usage
 
