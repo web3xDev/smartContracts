@@ -22,11 +22,11 @@ The Web3DevResume contract allows a developer to create and manage their resume 
 The addSummary, addWorkExperience, addSkill, addAward, and addCertificate functions can be used to add new information to the resume.
 The summary, education, workExperiences, skills, awards, and certificates can be retrieved using the corresponding public view functions.
 
-## Usage
+## Usage
 
 To use this smart contract, you will need to deploy it to the Ethereum network using a compatible blockchain client or online service. Once deployed, you can interact with the contract using a compatible wallet or application that supports interaction with smart contracts.
 
-## Note:
+## Note:
 
 Before using this smart contract, make sure to review the code and understand its functionality and limitations.
 
