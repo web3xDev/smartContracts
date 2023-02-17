@@ -2,7 +2,7 @@
 This is a smart contract for a simple Buy Me A Coffee application built on the Ethereum blockchain using the Solidity programming language.
 
 ## Warning: 
-This is an experimental smart contract and it should not be used in a production environment until its security and functionality have been thoroughly audited and tested.
+This is an experimental smart contract and it should not be used in a production environment until its security and functionality have been thoroughly audited and tested. Use at your own risk!
 
 ## Functionality
 The contract allows users to contribute funds to creators and withdraw funds from their balance.
