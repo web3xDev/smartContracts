@@ -7,7 +7,6 @@ This smart contract does not provide any security mechanisms to prevent unauthor
 This smart contract is not intended for use in a production environment and should be considered purely experimental. Use at your own risk!
 
 ## Contract Description
-
 The Web3DevResume contract allows a developer to create and manage their resume information on the Ethereum blockchain. The following information can be stored:
 
 - Name
