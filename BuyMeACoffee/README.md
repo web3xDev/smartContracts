@@ -30,7 +30,7 @@ To use the contract, contributors can call the buyCoffee function, specifying th
 
 To test the contract, you can use Remix or another Solidity development tool. You can also use a test network, such as the Ropsten test network, to deploy and test the contract.
 
-## Warning:
+## Note:
 
 Please be careful when using real funds on a live network. It is recommended to test the contract on a test network before deploying it on the main network.
 
